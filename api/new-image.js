@@ -10,9 +10,9 @@ export default async function handler(req, res) {
     <head>
       <meta charset="UTF-8">
       <meta property="fc:frame" content="vNext" />
-      <meta property="fc:frame:image" content="https://picsum.photos/1200/630?random=${randomParam}" />
+      <meta property="fc:frame:image" content="https://raw.githubusercontent.com/e-ll-a-chan/frameframe/master/second.png" />
       <meta property="fc:frame:button:1" content="Retry" />
-      <meta property="fc:frame:post_url" content="https://0kcal-game.vercel.app/api/new-image" />
+      <meta property="fc:frame:post_url" content="https://0kcal-game.vercel.app/index.html" />
       <title>New Image - Farcaster Frame</title>
     </head>
     <body>
